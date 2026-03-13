@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikita</h1>
-- 👨‍💻 All of my projects are available at [https://github.com/nikita121e](https://github.com/nikita121e)
+- 👨‍💻 All of my projects are available at [https://github.com/nikita121e]
 
 - 📫 How to reach me **nikitakohut0707@gmail.com**
 
